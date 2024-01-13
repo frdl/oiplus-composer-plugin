@@ -31,7 +31,22 @@
         "repositories": [
 		{
 			"type": "composer", 
-			"url": "https://oidplus-plugins.repo.pkg.frdl.de"
+			"url": "https://oidplus-plugins.repo.pkg.dev.frdl.de"
+		},
+		
+		{
+			"type": "composer", 
+			"url": "https://weid.repo.pkg.dev.frdl.de"
+		},
+		
+		{
+			"type": "composer", 
+			"url": "https://frdl.repo.pkg.dev.frdl.de"
+		},
+		
+		{
+			"type": "composer", 
+			"url": "https://repo.pkg.dev.frdl.de"
 		}
 	],
 	"suggest": {
