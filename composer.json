@@ -62,7 +62,7 @@
 		"civicrm/composer-compile-plugin": "*",
 		"civicrm/composer-downloads-plugin": "*",
 		"civicrm/composer-compile-lib": "*",
-		"thecodingmachine/discovery": "*",
+		"vendor-patch/discovery": "*",
 		"smoren/mushroom-hook-manager": "1.0.0"
 	},
 
